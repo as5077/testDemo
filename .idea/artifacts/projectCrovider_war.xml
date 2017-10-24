@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="projectCrovider:war">
+    <output-path>$PROJECT_DIR$/projectProvider/target</output-path>
+    <root id="archive" name="projectCrovider.war">
+      <element id="artifact" artifact-name="projectCrovider:war exploded" />
+    </root>
+  </artifact>
+</component>
